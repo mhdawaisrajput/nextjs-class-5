@@ -11,12 +11,12 @@ export default function Home() {
         {/* Left Side, Text Present */}
         <div>
           <h1 className="font-bold text-3xl">
-            <span className="text-orange-500">Hi There,</span> I'm Muhammad
+            <span className="text-orange-500">Hi There,</span> {`I'm`} Muhammad
             Awais
           </h1>
 
           <p className="text-gray-600">
-            I'm a Full Stack Web Developer with a strong focus on building
+            {`I'm`} a Full Stack Web Developer with a strong focus on building
             dynamic, responsive, and user-friendly web applications.Full Stack
             Web Developer with a strong focus on building dynamic, responsive,
             and user-friendly web applications. Full Stack Web Developer with a
